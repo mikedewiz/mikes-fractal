@@ -1,0 +1,1 @@
+ffmpeg -framerate 30 -i mike6-frames/frame_%04d.png -c:v libx264 -crf 0 -preset slow mike6-v3.mp4
