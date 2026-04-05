@@ -5,8 +5,6 @@
   <img src="images/julia.png" width="500">
 </div>
 
-
-
 ## mike 2
 <div align="center">
   <img src="images/mike_2.png" width="500">
