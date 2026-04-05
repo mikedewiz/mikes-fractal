@@ -37,7 +37,7 @@
 
 ## mike 6 zoomed
 <div align="center">
-  <img src="images/mike6-v3.gif" width="500">
+  <img src="videos/mike6-v3.gif" width="500">
 </div>
 
 ## mike 7
